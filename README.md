@@ -4,6 +4,61 @@ This is intended to help participants of [CITCON Europe 2019](https://citconf.co
 
 I got several requests on Twitter to recommend accommodations in Ghent. Living myself in Ghent, and never having to book a hotel in Ghent, it was a bit difficult to come up with a list. The best thing I could imagine of was to go to the local bookstore and grab a copy of the Lonely Planet and Guide du Routard for Belgium.
 
+## How to get around Ghent
+
+The city centre of Ghent is car-free and tailor-made for pedestrians and cyclists. Getting around in the city centre by a car is very difficult and not advised.
+
+With bus and tram you can reach any part of the city quickly and easily (even on weekend evenings) and taxis are also readily available.
+
+Or you use a bike like half of the residents of Ghent.
+
+### Public transportation
+
+Public transportation is handled by [De Lijn](https://www.delijn.be/en).
+
+Every 13 min, there is a direct tram line 4 from De Korenmarkt to nearby the venue Zebrastraat. De trip takes you approximately 17 min.
+
+### Bicycle rental
+
+There are possibilities to rent a bike at:
+
+- Blue-Bike
+  - main railway station Gent-Sint-Pieters
+  - secondary railway station Gent-Dampoort
+- De Fietsambassade
+  - under the [City Pavilion](https://visit.gent.be/en/see-do/city-pavilion)
+  - main railway station [Gent-Sint-Pieters](https://visit.gent.be/en/see-do/gent-sint-pieters-hub-ghent)
+  - secondary railway station [Gent-Dampoort](https://visit.gent.be/en/see-do/gent-dampoort-station)
+- Gentlewheels: electrical and conventional folding bikes
+
+More information about this can be found on [Visit Ghent](https://visit.gent.be/en/good-know/practical-information/getting-around/cycling-ghent/bicycle-rental).
+
+### Taxi
+
+Taxi prices are fixed by the city:
+
+- 8.5 EUR startprice includes the first 3 km
+- 2.3 EUR/km from 4 km till 40 km
+- 1.9 EUR/km from 41 till 80 km
+- 1.6 EUR/km from 81 km
+- 40 EUR waitprice/hour including 5 min waittime for free
+- 2.5 EUR night surcharge per ride between 10PM and 6AM
+
+Taxi hubs are available at:
+
+- main railway station Gent-Sint-Pieters
+- secondary railway station Gent-Dampoort
+- Gent Zuid - Woodrow Wilsonplein
+- Gent Zuid - Graaf van Vlaanderenplein
+- the Townhall near the Belfry - Belfortstraat
+- Drabstraat
+- Henegouwenstraat
+- Kammerstraat near Sint-Jacobs Church
+- Koophandelsplein near the Courthouse and the shopping street Veldstraat
+- Pakhuisstraat near Graslei, Korenmarkt and Sint-Michielsbrug
+- Vlasmarkt near Sint-Jacobs Church
+- Zuidstationstraat in between Gent Zuid and Sint-Annaplein
+
 ## Accomodations
 
 The [site of the The Loonely Planet](https://www.lonelyplanet.com/belgium/flanders/ghent/hotels/best-places-to-stay-in-ghent?filters%5Bproperty_type_group%5D%5Bbudget_hotel%5D=true) references lots of hotels in Ghent of different categories.
@@ -36,7 +91,7 @@ B&B
 
 single/double from 65/90 EUR.
 
-Near [Portus Ganda](https://en.wikipedia.org/wiki/Portus_Ganda).
+Near [Portus Ganda](https://visit.gent.be/en/see-do/portus-ganda).
 
 The three guestrooms of this friendly B&B in an attractive 1890s townhouse have high ceilings and private showers but shared toilets. The house is decorated with souvenirs of its owners' world travels, but perhaps its most notable features are that it is smoker friendly and has an attractive heated outdoor pool (summer months only). Handy for [Gent-Dampoort station](https://www.lonelyplanet.com/pois/1292361).
 
@@ -70,7 +125,7 @@ B&B
 
 incl. breakfast from 85 EUR.
 
-In between the [Sint-Baafs Cathedral](https://en.wikipedia.org/wiki/St_Bavo%27s_Cathedral,_Ghent) and [Portus Ganda](https://en.wikipedia.org/wiki/Portus_Ganda).
+In between the [Sint-Baafs Cathedral](https://visit.gent.be/en/see-do/st-bavos-cathedral-majestic-tower) and [Portus Ganda](https://visit.gent.be/en/see-do/portus-ganda).
 
 The exterior looks like that of all other houses in this inconspicuous, cobblestone street, but the inside is completely different: very modern vibrant colors, old tile floor ... Three (totally different) rooms, one in 70s style. That room has a balcony that opens onto the courtyard (and you have a nice view of the cathedral). Very sympathetic reception.
 
@@ -82,7 +137,7 @@ B&B
 
 single/double incl. breakfast from 80/95 EUR.
 
-Close to [Gravensteen](https://en.wikipedia.org/wiki/Gravensteen).
+Close to [The Castle of Counts](https://visit.gent.be/en/see-do/castle-counts).
 
 Behind a flea market (full of stuff from the 1950s) operated by Stefan. There are two quiet and tidy rooms in the back house. The cheaper room is slightly better, but the other room has a bathroom with an old-fashioned bathtub.
 
@@ -106,7 +161,7 @@ source: Le Guide du Routard
 
 single/double incl. breakfast from 92/126 EUR
 
-At [Portus Ganda](https://en.wikipedia.org/wiki/Portus_Ganda).
+At [Portus Ganda](https://visit.gent.be/en/see-do/portus-ganda).
 
 This canal boat has been rebuilt as a hotel and is located at only a minute’s walk from the centre of town with all its historical monuments, museums and shops.
 
@@ -152,7 +207,7 @@ Hotel
 
 from 113 EUR.
 
-In between the [Sint-Baafs Cathedral](https://en.wikipedia.org/wiki/St_Bavo%27s_Cathedral,_Ghent) and the [Belfry](https://en.wikipedia.org/wiki/Belfry_of_Ghent).
+In between the [Sint-Baafs Cathedral](https://visit.gent.be/en/see-do/st-bavos-cathedral-majestic-tower) and the [Belfry](https://visit.gent.be/en/see-do/ghent-belfry-world-heritage). Near the [City Pavilion](https://visit.gent.be/en/see-do/city-pavilion).
 
 Not your usual Ibis. The outside architecture is well adapted to the historical center.
 
@@ -188,7 +243,7 @@ B&B
 
 double/suite 210/264 EUR.
 
-Not too far from commercial street.
+Not too far from the shopping street Veldstraat.
 
 This sumptuous 1770s urban palace retains original sections of 18th-century Chinese wallpaper, a dining room with romantic Austrian-era murals, a dazzling salon and a neatly manicured parterre garden. The five guest rooms combine well-placed modernist and retro touches. The lavish ‘Paola’s Room’ is named for the young Italian princess who stayed here long before becoming Belgium’s (now former) queen.
 
@@ -200,7 +255,7 @@ Hotel
 
 incl. breakfast from 235 EUR.
 
-In the middle of the historic city centre. At beautyfull [Graslei](https://en.wikipedia.org/wiki/Graslei). The other side of the Korenlei.
+In the middle of the historic city centre. At beautyfull [Graslei](https://visit.gent.be/en/see-do/history-graslei-and-korenlei). The other side of the Korenlei.
 
 Housed in Ghent's spectacular twin-turreted former post office. The property's common areas, guestrooms and suites are dark and moody in a wonderful way, with elements of great design at every turn (though note the standard rooms are compact for the price). The hotel also offers fine dining and an ultra-atmospheric bar.
 
@@ -212,7 +267,7 @@ Hotel
 
 incl. breakfast from 224 EUR.
 
-In the middle of the historic city centre. At beautyfull [Korenlei](https://en.wikipedia.org/wiki/Korenlei). The otherside of the Graslei.
+In the middle of the historic city centre. At beautyfull [Korenlei](https://visit.gent.be/en/see-do/history-graslei-and-korenlei). The otherside of the Graslei.
 
 On the inside Ghent's Marriott is a standard international business/tourist hotel with stylish (if somewhat generic), comfortable, modern rooms and a glass and steel atrium. On the outside its handsome facade incorporates four mediaval stone housefronts. Canal-view rooms (50 EUR extra) have wistful waterfront panoramas. Look online for some good deals.
 
