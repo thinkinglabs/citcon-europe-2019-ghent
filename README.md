@@ -4,7 +4,7 @@ This is intended to help participants of [CITCON Europe 2019](https://citconf.co
 
 I got several requests on Twitter to recommend accommodations in Ghent. Living myself in Ghent, and never having to book a hotel in Ghent, it was a bit difficult to come up with a list. The best thing I could imagine of was to go to the local bookstore and grab a copy of the Lonely Planet and Guide du Routard for Belgium.
 
-## How to get around Ghent
+## How to get around in Ghent
 
 The city centre of Ghent is car-free and tailor-made for pedestrians and cyclists. Getting around in the city centre by a car is very difficult and not advised.
 
