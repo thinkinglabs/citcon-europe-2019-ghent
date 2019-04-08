@@ -6,7 +6,6 @@ I got several requests on Twitter to recommend accommodations in Ghent. Living m
 
 ## Accomodations
 
-
 ### [Hotel Flandria](http://www.hotelflandria-gent.be/), Barrestraat 3
 
 Budget Hotel
@@ -40,6 +39,20 @@ single/double from 65/90 EUR.
 Near Portus Ganda.
 
 The three guestrooms of this friendly B&B in an attractive 1890s townhouse have high ceilings and private showers but shared toilets. The house is decorated with souvenirs of its owners' world travels, but perhaps its most notable features are that it is smoker friendly and has an attractive heated outdoor pool (summer months only). Handy for [Gent-Dampoort station](https://www.lonelyplanet.com/pois/1292361).
+
+### [The Boatel](https://www.theboatel.com), Voorhoutkaai 44
+
+2-star hotel on a boat.
+
+single/double incl. breakfast from 92/126 EUR
+
+At Portus Ganda.
+
+This canal boat has been rebuilt as a hotel and is located at only a minute’s walk from the centre of town with all its historical monuments, museums and shops.
+
+Equipped with 5 charming and cosy rooms of which 3 are standard rooms and 2 luxurious. Each room is decorated in a unique and surprisingly different style with view over the river. Every morning a delicious continental breakfast is served.
+
+*Not recommended by any travel guide. Just added by myself because I'm intruiged by it since the nine years I live close by.*
 
 ### [Simon Says](http://simon-says.be), Sluizeken 8
 
