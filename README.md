@@ -6,6 +6,8 @@ I got several requests on Twitter to recommend accommodations in Ghent. Living m
 
 ## Accomodations
 
+On the site of The Loonely Planet you can find [more budget hotels](https://www.lonelyplanet.com/belgium/flanders/ghent/hotels/best-places-to-stay-in-ghent?filters%5Bproperty_type_group%5D%5Bbudget_hotel%5D=true).
+
 ### [Hotel Flandria](http://www.hotelflandria-gent.be/), Barrestraat 3
 
 Budget Hotel
