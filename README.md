@@ -65,7 +65,11 @@ Or you use a bike like half of the residents of Ghent.
 
 Public transportation is handled by [De Lijn](https://www.delijn.be/en).
 
-Every 13 min, there is a direct tram line 4 from De Korenmarkt to nearby the venue Zebrastraat. De trip takes you approximately 17 min.
+Every 6 min, there is a direct tram line 1 from _Gent-Sint-Pieters_ on platform 2 to _Korenmarkt_
+
+Every 13 min, there is a direct tram line 4 from _Korenmarkt_ to nearby the venue Zebrastraat. De trip takes you approximately 17 min.
+
+Note: _Korenmarkt_ is about the heart of the city.
 
 ### Bicycle rental
 
