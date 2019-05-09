@@ -129,9 +129,9 @@ Taxi hubs are available at:
 
 ## Accomodations
 
-The [site of the The Loonely Planet](https://www.lonelyplanet.com/belgium/flanders/ghent/hotels/best-places-to-stay-in-ghent?filters%5Bproperty_type_group%5D%5Bbudget_hotel%5D=true) references lots of hotels in Ghent of different categories.
+The [site of the The Lonely Planet](https://www.lonelyplanet.com/belgium/flanders/ghent/hotels/best-places-to-stay-in-ghent?filters%5Bproperty_type_group%5D%5Bbudget_hotel%5D=true) references lots of hotels in Ghent of different categories.
 
-The congres organisation service of the city of Ghent gave me these additional links:
+The congress organisation service of the city of Ghent gave me these additional links:
 
 - [Overnight stay on Visit Ghent](https://visit.gent.be/en/overnight-stay) - The Tourism service of the city of Ghent
 - [The Guild of Ghent's B&B](https://www.bedandbreakfast-gent.be/)
@@ -151,7 +151,7 @@ It is located in the heart of Ghent, a few steps away from the most important at
 
 It is one of the few hotels in Ghent city centre in a quiet neighbourhood and, at the same time, it is close to the vibrant spots of the city.
 
-source: The Loonely Planet
+source: The Lonely Planet
 
 ### [Big Sleep](http://www.bigsleep.be/), Hagelandkaai 38
 
@@ -163,7 +163,7 @@ Near [Portus Ganda](https://visit.gent.be/en/see-do/portus-ganda).
 
 The three guestrooms of this friendly B&B in an attractive 1890s townhouse have high ceilings and private showers but shared toilets. The house is decorated with souvenirs of its owners' world travels, but perhaps its most notable features are that it is smoker friendly and has an attractive heated outdoor pool (summer months only). Handy for [Gent-Dampoort station](https://www.lonelyplanet.com/pois/1292361).
 
-source: The Loonely Planet
+source: The Lonely Planet
 
 ### [Onderland](http://onderland.be/logies_algemeen_en.html), Rabotstraat 62
 
@@ -185,7 +185,7 @@ A bit far away from the venue. A bit off the city centre.
 
 This 1863 townhouse has attractive belle époque, art deco and art nouveau touches, a comfortable communal lounge area featuring maps, globes and an honesty bar, and four distinctive guest rooms themed by continent.
 
-source: The Loonely Planet
+source: The Lonely Planet
 
 ### [Alphabed](http://alphabed.be/eng/index.html), Jan Palfijnstraat 26
 
@@ -253,7 +253,7 @@ You can't miss it: it's the brightly coloured art nouveau house on the corner.
 
 Cheery hosts, excellent breakfast and strong organic coffee.
 
-source: The Loonely Planet
+source: The Lonely Planet
 
 ### [B&B Engelen aan de Waterkant](http://www.engelenaandewaterkant.be/), Ter Platen 30
 
@@ -267,7 +267,7 @@ Close to the venue.
 
 Owned by an interior designer, this B&B – set in a 1900 townhouse overlooking a tree-lined canal – has a special atmosphere and two 'angel' rooms.
 
-source: The Loonely Planet
+source: The Lonely Planet
 
 ### [Ibis Gent Centrum Sint-Baafs Kathedraal Hotel](https://www.accorhotels.com/gb/hotel-0961-ibis-gent-centrum-st-baafs-kathedraal/index.shtml), Limburgstraat 2
 
@@ -315,7 +315,7 @@ Not too far from the shopping street Veldstraat.
 
 This sumptuous 1770s urban palace retains original sections of 18th-century Chinese wallpaper, a dining room with romantic Austrian-era murals, a dazzling salon and a neatly manicured parterre garden. The five guest rooms combine well-placed modernist and retro touches. The lavish ‘Paola’s Room’ is named for the young Italian princess who stayed here long before becoming Belgium’s (now former) queen.
 
-source: The Loonely Planet
+source: The Lonely Planet
 
 ### [1898 The Post](http://www.zannierhotels.com/1898thepost/en/), Graslei 16
 
@@ -327,7 +327,7 @@ In the middle of the historic city centre. At beautyfull [Graslei](https://visit
 
 Housed in Ghent's spectacular twin-turreted former post office. The property's common areas, guestrooms and suites are dark and moody in a wonderful way, with elements of great design at every turn (though note the standard rooms are compact for the price). The hotel also offers fine dining and an ultra-atmospheric bar.
 
-source: The Loonely Planet
+source: The Lonely Planet
 
 ### [Ghent Marriott](https://www.marriott.com/hotels/travel/gnemc-ghent-marriott-hotel/), Korenlei 10
 
@@ -339,4 +339,4 @@ In the middle of the historic city centre. At beautyfull [Korenlei](https://visi
 
 On the inside Ghent's Marriott is a standard international business/tourist hotel with stylish (if somewhat generic), comfortable, modern rooms and a glass and steel atrium. On the outside its handsome facade incorporates four mediaval stone housefronts. Canal-view rooms (50 EUR extra) have wistful waterfront panoramas. Look online for some good deals.
 
-source: The Loonely Planet
+source: The Lonely Planet
