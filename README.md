@@ -6,25 +6,36 @@ I got several requests on Twitter to recommend accommodations in Ghent. Living m
 
 ## How to get in Ghent
 
+Train timetables are available on [belgiantrain.be](https://www.belgiantrain.be/en).
+
+Note: When looking up railway stations on the site of belgiantrain.be, although the site is in English, you have to use
+the Dutch or French railway station names. Except for _Brussels Airport_ :/ Sorry for that.
+
 ### By train from Brussels Airport
 
-For these arriving by plane at Brussels Airport.
+For those arriving by plane in _Brussels Airport_.
 
 [Brussels Airport has a railway station](https://www.brusselsairport.be/en/passengers/access-parking/train) with
 connections to the main Belgian cities of which Ghent. The train station is located directly under the departures and
 arrivals halls, at level -1.
 
-Every hour there are 2 direct lines to Gent Sint-Pieters (the main railway station of Ghent) at:
+Every hour there are 2 direct lines to _Gent Sint-Pieters_ (the main railway station of Ghent) at (duration 55m):
 
 - ##:03
 - ##:25
 
-There is another line with a change in Brussels-South at ##:30.
+There is another line with a change in _Brussels South (Bruxelles-Midi/Brussel Zuid)_ at ##:30 (duration 1h05).
 
-Timetables are available on [belgiantrain.be](https://www.belgiantrain.be/en).
+### By train from Brussels South (Bruxelles-Midi/Brussel Zuid)
 
-Note: When looking up railway stations on the site of belgiantrain.be, although the site is in English, you have to use
-the Dutch or French railway station names :/ Sorry for that.
+For those arriving by Thalys or ICE from Paris or Cologne in _Brussels South ((Bruxelles-Midi/Brussel Zuid)_.
+
+Every hour there are 4 direct lines to _Gent Sint-Pieters_ at (duration 30m):
+
+- ##:07
+- ##:28
+- ##:36
+- ##:53
 
 ## How to get around in Ghent
 
