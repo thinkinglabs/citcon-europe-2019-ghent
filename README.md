@@ -1,8 +1,30 @@
-# Accommodations in Ghent during CITCON Europe 2019
+# CITCON Europe 2019 in Ghent
 
-This is intended to help participants of [CITCON Europe 2019](https://citconf.com/ghent2019/) in their search for accommodations in Ghent.
+This is intended to help participants of [CITCON Europe 2019](https://citconf.com/ghent2019/) to organise their travel to Ghent.
 
 I got several requests on Twitter to recommend accommodations in Ghent. Living myself in Ghent, and never having to book a hotel in Ghent, it was a bit difficult to come up with a list. The best thing I could imagine of was to go to the local bookstore and grab a copy of the Lonely Planet and Guide du Routard for Belgium.
+
+## How to get in Ghent
+
+### By train from Brussels Airport
+
+For these arriving by plane at Brussels Airport.
+
+[Brussels Airport has a railway station](https://www.brusselsairport.be/en/passengers/access-parking/train) with
+connections to the main Belgian cities of which Ghent. The train station is located directly under the departures and
+arrivals halls, at level -1.
+
+Every hour there are 2 direct lines to Gent Sint-Pieters (the main railway station of Ghent) at:
+
+- ##:03
+- ##:25
+
+There is another line with a change in Brussels-South at ##:30.
+
+Timetables are available on [belgiantrain.be](https://www.belgiantrain.be/en).
+
+Note: When looking up railway stations on the site of belgiantrain.be, although the site is in English, you have to use
+the Dutch or French railway station names :/ Sorry for that.
 
 ## How to get around in Ghent
 
