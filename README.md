@@ -55,7 +55,9 @@ Timetables are available via [b-europe.com](https://www.b-europe.com/en).
 
 ### By car
 
-See [Google Maps](https://www.google.be/maps) ;)
+Explanations on [how to get to Ghent by car](https://visit.gent.be/en/good-know/practical-information/how-get-ghent/car) can be found on VisitGent or see [Google Maps](https://www.google.be/maps) ;)
+
+Take into account Ghent has a [circulation plan (links to a big PDF)](https://stad.gent/sites/default/files/page/documents/20170221_DO_Circulatieplan2.0_A0_pixel_0.pdf). You cannot cross the city by car.
 
 Parking the car on the street is an option, but not free. The venue is located in the orange zone. Tariffs are:
 
@@ -63,6 +65,8 @@ Parking the car on the street is an option, but not free. The venue is located i
 - 2h:  3.00 EUR
 - 3h:  4.50 EUR
 - 24h: 6.00 EUR
+
+If you don't want to pay for parking, there are a number of [free Park & Rides](https://visit.gent.be/en/good-know/practical-information/how-get-ghent/car/pr-car-parks) on the edge of Ghent.
 
 ## How to get around in Ghent
 
