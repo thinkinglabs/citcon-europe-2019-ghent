@@ -53,6 +53,17 @@ There is a direct line from _Lille Flandres_ to _Gent Sint-Pieters_ once every h
 
 Timetables are available via [b-europe.com](https://www.b-europe.com/en).
 
+### By car
+
+See [Google Maps](https://www.google.be/maps) ;)
+
+Parking the car on the street is an option, but not free. The venue is located in the orange zone. Tariffs are:
+
+- 1h:  1.50 EUR
+- 2h:  3.00 EUR
+- 3h:  4.50 EUR
+- 24h: 6.00 EUR
+
 ## How to get around in Ghent
 
 The city centre of Ghent is car-free and tailor-made for pedestrians and cyclists. Getting around in the city centre by a car is very difficult and not advised.
