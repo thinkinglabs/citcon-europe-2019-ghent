@@ -13,7 +13,7 @@ the Dutch or French railway station names. Except for _Brussels Airport_ :/ Sorr
 
 ### By train from Brussels Airport
 
-For those arriving by plane in _Brussels Airport_.
+For those arriving by plane at _Brussels Airport_.
 
 [Brussels Airport has a railway station](https://www.brusselsairport.be/en/passengers/access-parking/train) with
 connections to the main Belgian cities of which Ghent. The train station is located directly under the departures and
@@ -28,7 +28,7 @@ There is another line with a change in _Brussels South (Bruxelles-Midi/Brussel Z
 
 ### By train from Brussels South (Bruxelles-Midi/Brussel Zuid)
 
-For those arriving by Thalys or ICE from Paris or Cologne in _Brussels South ((Bruxelles-Midi/Brussel Zuid)_.
+For those arriving by Thalys or ICE from Paris or Cologne at _Brussels South ((Bruxelles-Midi/Brussel Zuid)_.
 
 Every hour there are 4 direct lines to _Gent Sint-Pieters_ at (duration 30m):
 
@@ -39,7 +39,7 @@ Every hour there are 4 direct lines to _Gent Sint-Pieters_ at (duration 30m):
 
 ### By train from Antwerp Central (Antwerpen-Centraal)
 
-For those arriving by Thalys from the Netherlands in _Antwerp Central (Antwerpen-Centraal)_.
+For those arriving by Thalys from the Netherlands at _Antwerp Central (Antwerpen-Centraal)_.
 
 Every hour there are 3 direct lines to _Gent Sint-Pieters_ at (duration 1h):
 
