@@ -47,6 +47,12 @@ Every hour there are 3 direct lines to _Gent Sint-Pieters_ at (duration 1h):
 - ##:37
 - ##:51
 
+### By train from Lille (France)
+
+There is a direct line from _Lille Flandres_ to _Gent Sint-Pieters_ once every hour at ##:08 (duration 1h16).
+
+Timetables are available via [b-europe.com](https://www.b-europe.com/en).
+
 ## How to get around in Ghent
 
 The city centre of Ghent is car-free and tailor-made for pedestrians and cyclists. Getting around in the city centre by a car is very difficult and not advised.
