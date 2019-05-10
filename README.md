@@ -59,6 +59,8 @@ Explanations on [how to get to Ghent by car](https://visit.gent.be/en/good-know/
 
 Take into account Ghent has a [circulation plan (links to a big PDF)](https://stad.gent/sites/default/files/page/documents/20170221_DO_Circulatieplan2.0_A0_pixel_0.pdf). You cannot cross the city by car.
 
+The venue has a underground car park. The entrance is [Gustaaf Callierlaan 231](https://www.google.com/maps/place/Gustaaf+Callierlaan+231,+9000+Gent/@51.040023,3.7327883,17z/data=!3m1!4b1!4m5!3m4!1s0x47c37154f4594f9b:0x7a5bc0e2a5013c89!8m2!3d51.040023!4d3.734977). Tariff is 1 EUR per hour.
+
 Parking the car on the street is an option, but not free. The venue is located in the orange zone. Tariffs are:
 
 - 1h:  1.50 EUR
