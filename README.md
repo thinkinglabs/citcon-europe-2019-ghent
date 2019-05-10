@@ -28,7 +28,7 @@ There is another line with a change in _Brussels South (Bruxelles-Midi/Brussel Z
 
 ### By train from Brussels South (Bruxelles-Midi/Brussel Zuid)
 
-For those arriving by Thalys or ICE from Paris or Cologne at _Brussels South ((Bruxelles-Midi/Brussel Zuid)_.
+For those arriving by Eurostar, Thalys or ICE from London, Paris or Cologne at _Brussels South (Bruxelles-Midi/Brussel Zuid)_.
 
 Every hour there are 4 direct lines to _Gent Sint-Pieters_ at (duration 30m):
 
