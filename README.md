@@ -144,6 +144,7 @@ Specialities of Flanders:
 
 - [Flamish Carbonade](https://en.wikipedia.org/wiki/Carbonade_flamande): a stew of beef (or porc) with beer (obviously) that takes hours to prepare. In Dutch it is called "stoverij".
 - [Mastel](https://visit.gent.be/en/mastel): looks like a bagel made of flour, milk, butter, sugar and cinnamon. Difficult to find. It used to be available in all bakeries. The best way to eat them is ironed (with a toaster) with butter and brown sugar inside.
+- [Jenever](https://en.wikipedia.org/wiki/Jenever): a grain liquor. The English like to call it Dutch gin, as gin is a derived from jenever. I prefer the young or old version. Over time lots of flavours have been produced: apple, citroen, chocolat, ... Flemish or Dutch coffee is just coffee with jenever.
 
 Specialities of Belgium:
 
@@ -165,9 +166,13 @@ Where to drink beer?
 
 - [Café de Trollenkelder](https://www.trollekelder.be/) at Sint-Jacobs
 - [Bierkaffee Trappistenhuis](https://trappistenhuis.com/) at Brabantdam close to Sint-Annaplein
-- [Waterhuis aan de Bierkant](https://www.dreupelkot.be/waterhuis) at Groentenmarkt
+- [Waterhuis aan de Bierkant](https://www.dreupelkot.be/waterhuis) at Groentenmarkt, sometimes called Bierhuis aan de Waterkant
 - [Café Galgenhuis](http://www.galgenhuis.be/): smallest cafe/bar of Ghent
 - [De Dulle Griet](http://www.dullegriet.be/nl/) at Vrijdagsmarkt: for some beers you have to give a shoe as a pledge for the glass, otherwise people tend to steel the glass.
+
+Where to drink Jenever?
+
+- [Dreupelkot](https://www.dreupelkot.be/) at Groentenmarkt next to Waterhuis aan de Bierkant
 
 Where to find Cuperdons?
 
