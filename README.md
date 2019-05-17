@@ -151,11 +151,18 @@ Specialities of Belgium:
 - Chocolate (obviously), aspecially dark, and [pralines](https://en.wikipedia.org/wiki/Praline)
 - [Waffles](https://en.wikipedia.org/wiki/Waffle)
 - Beer (obviously)
+- (French) Fries: don't know why they are called French, as they are definitely Belgian.
 
 Where to have Waterzooi?
 
 - ['t Vosken](https://www.tvosken.be/en/) at St-Baafsplein in between the Belfry and Sint-Baafs Cathedral.
 - [Fait Divers](http://faits-divers.be/) at Korenmarkt. I once eaten Waterzooi there, 10 years ago. It was really good. But I see the reviews online are not that great. In addition, Korenmarkt is a tourist trap.
+
+Where to have French Fries?
+
+Be aware, not all French fries places are ok. It is unfortunately more the exception. I only know of one place that is extremely good:
+
+- [De Frietketel](https://www.facebook.com/pages/category/Fast-Food-Restaurant/De-Frietketel-34597147572/) at Papegaaistraat near Rozemarijnbrug: it is the best place to have French fries. They are never uncooked. At 6-7PM you have a line till outside.
 
 Other places for eating:
 
