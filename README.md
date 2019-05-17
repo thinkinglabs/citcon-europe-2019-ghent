@@ -156,6 +156,11 @@ Where to have Waterzooi?
 - ['t Vosken](https://www.tvosken.be/en/) at St-Baafsplein in between the Belfry and Sint-Baafs Cathedral.
 - [Fait Divers](http://faits-divers.be/) at Korenmarkt. I once eaten Waterzooi there, 10 years ago. It was really good. But I see the reviews online are not that great. In addition, Korenmarkt is a tourist trap.
 
+Where to have Flamish Carbonade?
+
+- [De Abt](https://www.deabt.gent/). They make it with [Orval](https://en.wikipedia.org/wiki/Orval_Brewery) beer. The story says Orval finds his origins at this place. They also serve aged Orval, which is difficult to find.
+- Probably ['t Vosken](https://www.tvosken.be/en/) serves this too. As they serve all the typical regional dishes.
+
 ## Accomodations
 
 The [site of the The Lonely Planet](https://www.lonelyplanet.com/belgium/flanders/ghent/hotels/best-places-to-stay-in-ghent?filters%5Bproperty_type_group%5D%5Bbudget_hotel%5D=true) references lots of hotels in Ghent of different categories.
