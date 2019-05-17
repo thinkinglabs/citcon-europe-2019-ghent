@@ -161,6 +161,12 @@ Where to have Flamish Carbonade?
 - [De Abt](https://www.deabt.gent/). They make it with [Orval](https://en.wikipedia.org/wiki/Orval_Brewery) beer. The story says Orval finds his origins at this place. They also serve aged Orval, which is difficult to find.
 - Probably ['t Vosken](https://www.tvosken.be/en/) serves this too. As they serve all the typical regional dishes.
 
+Where to find Cuperdons?
+
+- [Groot Vleeshuis](https://www.grootvleeshuis.be/en/2136-2/) or Butcher's Hall at Groentenmarkt: you find all the regional products here and it is also a restaurant.
+- On Groentenmarkt there are two stalls.
+- [Confisserie Temmerman](https://visit.gent.be/en/see-do/confiserie-temmerman) at Kraanlei: a small authentic candy store having not the usual cone-shaped cuperdons. The woman has all the regional sweets: candy and cookies.
+
 ## Accomodations
 
 The [site of the The Lonely Planet](https://www.lonelyplanet.com/belgium/flanders/ghent/hotels/best-places-to-stay-in-ghent?filters%5Bproperty_type_group%5D%5Bbudget_hotel%5D=true) references lots of hotels in Ghent of different categories.
