@@ -161,6 +161,14 @@ Where to have Flamish Carbonade?
 - [De Abt](https://www.deabt.gent/). They make it with [Orval](https://en.wikipedia.org/wiki/Orval_Brewery) beer. The story says Orval finds his origins at this place. They also serve aged Orval, which is difficult to find.
 - Probably ['t Vosken](https://www.tvosken.be/en/) serves this too. As they serve all the typical regional dishes.
 
+Where to drink beer?
+
+- [Café de Trollenkelder](https://www.trollekelder.be/) at Sint-Jacobs
+- [Bierkaffee Trappistenhuis](https://trappistenhuis.com/) at Brabantdam close to Sint-Annaplein
+- [Waterhuis aan de Bierkant](https://www.dreupelkot.be/waterhuis) at Groentenmarkt
+- [Café Galgenhuis](http://www.galgenhuis.be/): smallest cafe/bar of Ghent
+- [De Dulle Griet](http://www.dullegriet.be/nl/) at Vrijdagsmarkt: for some beers you have to give a shoe as a pledge for the glass, otherwise people tend to steel the glass.
+
 Where to find Cuperdons?
 
 - [Groot Vleeshuis](https://www.grootvleeshuis.be/en/2136-2/) or Butcher's Hall at Groentenmarkt: you find all the regional products here and it is also a restaurant.
