@@ -183,6 +183,13 @@ Where to find Chocolates?
 - Fou de Chocolat at Kouter: little shop next to the Delhaize where you can buy all flavours of chocolate (lots of dark).
 - Notenboetiek Salon Magelein at Mageleinstraat: the other store of Fou de Chocolat selling all sorts of nuts in combination with chocolat. You find here [mendiants](https://en.wikipedia.org/wiki/Mendiant) and coffee beans coated with dark chocolat.
 
+Where to find Pralines?
+
+- [Chocolaterie Van Hoorebeke](http://www.chocolatesvanhoorebeke.be/) at Sint-Baafsplein
+- [Chocolaterie Van Hecke](http://www.chocolaterievanhecke.be/magic/chocolates.html) at Koestraat
+- [Daskalides](http://daskalides.be/) at Henegauwenstraat: a Ghent family from Greek origin.
+- [Neuhaus](https://www.neuhauschocolates.com/en/about-us/find-a-neuhaus-boutique/neuhaus-gent-koestraat/) at Koestraat: inventor of pralines, rather expensive.
+
 ## Accomodations
 
 The [site of the The Lonely Planet](https://www.lonelyplanet.com/belgium/flanders/ghent/hotels/best-places-to-stay-in-ghent?filters%5Bproperty_type_group%5D%5Bbudget_hotel%5D=true) references lots of hotels in Ghent of different categories.
