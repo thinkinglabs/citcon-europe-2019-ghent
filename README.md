@@ -129,6 +129,28 @@ Taxi hubs are available at:
 - Vlasmarkt near Sint-Jacobs Church
 - Zuidstationstraat in between Gent Zuid and Sint-Annaplein
 
+## Where to eat
+
+### Specialities
+
+Ghent/Flanders/Belgium has some food specialities.
+
+Specialities of Ghent:
+
+- [Gentse Waterzooi](https://en.wikipedia.org/wiki/Waterzooi): a stew dish of chicken and potatoes.
+- [Cuperdons](https://en.wikipedia.org/wiki/Cuberdon): a candy made with Arabic gum candy crust with a soft raspberry-flavoured inside filling. In Dutch it is called "neuzekes" or little noses.
+
+Specialities of Flanders:
+
+- [Flamish Carbonade](https://en.wikipedia.org/wiki/Carbonade_flamande): a stew of beef (or porc) with beer (obviously) that takes hours to prepare. In Dutch it is called "stoverij".
+- [Mastel](https://visit.gent.be/en/mastel): looks like a bagel made of flour, milk, butter, sugar and cinnamon. Difficult to find. It used to be available in all bakeries. The best way to eat them is ironed (with a toaster) with butter and brown sugar inside.
+
+Specialities of Belgium:
+
+- Chocolate (obviously), aspecially dark, and [pralines](https://en.wikipedia.org/wiki/Praline)
+- [Waffles](https://en.wikipedia.org/wiki/Waffle)
+- Beer (obviously)
+
 ## Accomodations
 
 The [site of the The Lonely Planet](https://www.lonelyplanet.com/belgium/flanders/ghent/hotels/best-places-to-stay-in-ghent?filters%5Bproperty_type_group%5D%5Bbudget_hotel%5D=true) references lots of hotels in Ghent of different categories.
