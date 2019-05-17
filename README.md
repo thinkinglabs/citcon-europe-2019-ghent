@@ -167,6 +167,11 @@ Where to find Cuperdons?
 - On Groentenmarkt there are two stalls.
 - [Confisserie Temmerman](https://visit.gent.be/en/see-do/confiserie-temmerman) at Kraanlei: a small authentic candy store having not the usual cone-shaped cuperdons. The woman has all the regional sweets: candy and cookies.
 
+Where to find Mastels?
+
+- [Bakery Himschoot](http://www.bakkerijhimschoot.be/gent-2) at Groentenmarkt. They also have the cuperdons.
+- [Julie's House](https://www.julieshouse.be/en) at Kraanlei: fantastic place to have breakfast. In the weekend you have to reserve. They serve the ironed mastel with brown sugar.
+
 ## Accomodations
 
 The [site of the The Lonely Planet](https://www.lonelyplanet.com/belgium/flanders/ghent/hotels/best-places-to-stay-in-ghent?filters%5Bproperty_type_group%5D%5Bbudget_hotel%5D=true) references lots of hotels in Ghent of different categories.
