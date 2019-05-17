@@ -144,7 +144,7 @@ Specialities of Flanders:
 
 - [Flamish Carbonade](https://en.wikipedia.org/wiki/Carbonade_flamande): a stew of beef (or porc) with beer (obviously) that takes hours to prepare. In Dutch it is called "stoverij".
 - [Mastel](https://visit.gent.be/en/mastel): looks like a bagel made of flour, milk, butter, sugar and cinnamon. Difficult to find. It used to be available in all bakeries. The best way to eat them is ironed (with a toaster) with butter and brown sugar inside.
-- [Jenever](https://en.wikipedia.org/wiki/Jenever): a grain liquor. The English like to call it Dutch gin, as gin is a derived from jenever. I prefer the young or old version. Over time lots of flavours have been produced: apple, citroen, chocolat, ... Flemish or Dutch coffee is just coffee with jenever.
+- [Jenever](https://en.wikipedia.org/wiki/Jenever): a juniper-based liquor. The English like to call it Dutch gin, as gin is a derived from jenever. I prefer the young or old version. Over time lots of flavours have been produced: apple, citroen, chocolat, ... Flemish or Dutch coffee is just coffee with jenever.
 
 Specialities of Belgium:
 
