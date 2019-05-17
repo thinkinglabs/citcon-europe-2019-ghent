@@ -172,6 +172,14 @@ Where to find Mastels?
 - [Bakery Himschoot](http://www.bakkerijhimschoot.be/gent-2) at Groentenmarkt. They also have the cuperdons.
 - [Julie's House](https://www.julieshouse.be/en) at Kraanlei: fantastic place to have breakfast. In the weekend you have to reserve. They serve the ironed mastel with brown sugar.
 
+Where to find Waffles?
+
+Lot's of places where you can buy them on the street.
+
+- [Etablissement Max](http://www.etablissementmax.be/) at Goudenleeuwplein next to the [City Pavilion](https://visit.gent.be/en/see-do/city-pavilion): the place to be, at 4PM they are full.
+
+
+
 ## Accomodations
 
 The [site of the The Lonely Planet](https://www.lonelyplanet.com/belgium/flanders/ghent/hotels/best-places-to-stay-in-ghent?filters%5Bproperty_type_group%5D%5Bbudget_hotel%5D=true) references lots of hotels in Ghent of different categories.
