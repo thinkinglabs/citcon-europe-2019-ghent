@@ -157,6 +157,13 @@ Where to have Waterzooi?
 - ['t Vosken](https://www.tvosken.be/en/) at St-Baafsplein in between the Belfry and Sint-Baafs Cathedral.
 - [Fait Divers](http://faits-divers.be/) at Korenmarkt. I once eaten Waterzooi there, 10 years ago. It was really good. But I see the reviews online are not that great. In addition, Korenmarkt is a tourist trap.
 
+Other places for eating:
+
+- Mediterranean food: [Villa Bardon](http://www.villabardon.be/en) at Sluizeken - very small menu card, fresh food, Maarten goes every morning to the market to buy his ingredients, say you have been advised by Els and Thierry, our daughters are very good friends.
+- Thai food: [Le Baan Thai](http://www.lebaanthai.be/nl/) at Pattershol: Pattershol is the place to be for fancy restaurants and to wander around
+- Maroccan food: [Mogador](http://www.mogador-gent.be/) at Mageleinstraat: very good couscous, you have to try the pasterie as starter
+- Sushis: [Tokyo Sushi](http://www.tokyosushi.be/en/gent) at Botermarkt
+
 Where to have Flamish Carbonade?
 
 - [De Abt](https://www.deabt.gent/). They make it with [Orval](https://en.wikipedia.org/wiki/Orval_Brewery) beer. The story says Orval finds his origins at this place. They also serve aged Orval, which is difficult to find.
