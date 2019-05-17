@@ -178,7 +178,10 @@ Lot's of places where you can buy them on the street.
 
 - [Etablissement Max](http://www.etablissementmax.be/) at Goudenleeuwplein next to the [City Pavilion](https://visit.gent.be/en/see-do/city-pavilion): the place to be, at 4PM they are full.
 
+Where to find Chocolates?
 
+- Fou de Chocolat at Kouter: little shop next to the Delhaize where you can buy all flavours of chocolate (lots of dark).
+- Notenboetiek Salon Magelein at Mageleinstraat: the other store of Fou de Chocolat selling all sorts of nuts in combination with chocolat. You find here [mendiants](https://en.wikipedia.org/wiki/Mendiant) and coffee beans coated with dark chocolat.
 
 ## Accomodations
 
