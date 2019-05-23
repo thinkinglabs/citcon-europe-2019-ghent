@@ -166,6 +166,7 @@ Be aware, not all French fries places are ok. It is unfortunately more the excep
 
 Other places for eating:
 
+- Spare ribs: De Gekroonde Hoofden at Burgstraat near the castle
 - Mediterranean food: [Villa Bardon](http://www.villabardon.be/en) at Sluizeken - very small menu card, fresh food, Maarten goes every morning to the market to buy his ingredients, say you have been advised by Els and Thierry, our daughters are very good friends.
 - Thai food: [Le Baan Thai](http://www.lebaanthai.be/nl/) at Pattershol: Pattershol is the place to be for fancy restaurants and to wander around
 - Maroccan food: [Mogador](http://www.mogador-gent.be/) at Mageleinstraat: very good couscous, you have to try the pasterie as starter
